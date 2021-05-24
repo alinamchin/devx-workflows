@@ -15,7 +15,7 @@ echo "Installing flex version $version_to_install!"
 # Generate the platform specific file name to download.
 os=$(uname | tr '[:upper:]' '[:lower:]')
 file_name="flex_${os}_amd64.tar.gz"
-base_url='https://github.com/fp-mt-test-org/devx-workflows/releases'
+base_url='https://github.com/alinamchin/devx-workflows/releases'
 if [[ "${version_to_install}" == "latest" ]]; then
     url="${base_url}/latest/download/${file_name}"
 else

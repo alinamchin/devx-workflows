@@ -21,7 +21,7 @@ archives:
       - scripts/user/*
 release:
   github:
-    owner: fp-mt-test-org    
+    owner: alinamchin   
     name: devx-workflows
   extra_files:
     - glob: ./scripts/user/install-flex.sh

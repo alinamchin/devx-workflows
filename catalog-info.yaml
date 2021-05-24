@@ -6,8 +6,8 @@ metadata:
   tags:
     - go
   annotations:
-    github.com/project-slug: fp-mt-test-org/devx-workflows
-    backstage.io/techdocs-ref: url:https://github.com/fp-mt-test-org/devx-workflows
+    github.com/project-slug: alinamchin/devx-workflows
+    backstage.io/techdocs-ref: url:https://github.com/alinamchin/devx-workflows
 spec:
   type: library
   lifecycle: experimental
